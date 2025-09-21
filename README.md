@@ -1,4 +1,23 @@
 # HTML-CSS--JordanMIller-Fall-2025
+week1 : 
+Learning Outcomes
+Review basic HTML:
+Semantic tags and page structure
+Hyperlinks, images, and relative paths
+Validation
+Review basic CSS
+Font families, text properties, colors, etc.
+Box model properties
+Layout and grids
+Responsive design and media queries
+Create forms for various types of input
+To-dos For This Week
+Complete the following tasks in order from top to bottom:
+
+Read the course outline thoroughly and let me know ASAP if you have any questions or concerns.
+Work on the first assignment, which review's last semester's materials and introduces HTML forms.
+Review this week's discussion questions.
+-----
 week two : 
 Postion sticky: it always stick as you scroll- 
 Learning Outcomes
