@@ -51,3 +51,18 @@ Complete the tutorial Advanced CSS Grid Techniques;
 The optional video by Jen Simmons may seem a bit out of date (as it's from 2018), but it's interesting and gives some insight into the inception of the Intrinsic Design idea and the historical development of some other familiar web design ideas.
 Complete this week's assignment;
 Review this week's discussion questions.
+
+---------------------------
+Week 4 - Flexbox
+Learning Outcomes
+Use CSS grid to build one-dimension layouts
+Use direction and order properties to control the flow of a flex layout
+Use justification and alignment to control the position of elements in a flex layout
+To-dos For This Week
+Complete the following tasks in order from top to bottom:
+
+Optionally review the article CSS Tricks Flexbox Layout Guide
+Complete this week's assignment;
+Review this week's discussion questions.
+List of Topics and Sub-Modules for Week 4 - Flexbox
+
