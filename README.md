@@ -66,3 +66,9 @@ Complete this week's assignment;
 Review this week's discussion questions.
 List of Topics and Sub-Modules for Week 4 - Flexbox
 
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-prefixing-flexbox
+
+------------------------
+
+
