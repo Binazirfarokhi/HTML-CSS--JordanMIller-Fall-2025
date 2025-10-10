@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>a6 - yourname</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="my-styles--custom-elements.css">
+</head>
+<body>
+   
+    <header>
+        <h1>Vancouver Public Art</h1>
+        <p>Data from Vancouver's <a href="https://opendata.vancouver.ca/explore/dataset/public-art/api/">Open Data Project</a></p>
+    </header>
+
+    <main></main>
+
+    <script>
+
+        const main = document.querySelector("main");
+
+        fetch(`https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/public-art/records?select=photourl%2C%20title_of_work%2C%20yearofinstallation%2C%20siteaddress&limit=9&offset=${Math.round(Math.random()*12)}`, { cache: "force-cache" })
+        .then(stream=>stream.json())
+        .then(result=>{
+            result.results.forEach(art=>{
+                console.log(art);
+                if(art.photourl) {
+                    let url = art.photourl.url
+                    let title = art.title_of_work;
+                    let year = art.yearofinstallation;
+                    let address = art.siteaddress;
+
+                     main.innerHTML+= `
+                     <public-art heading="${title}" year="${year}" address="${address}">
+                        <img src="${url}">
+                    </public-art>
+                     `;
+                }
+            })
+        });
+    </script>
+
+    <!-- Loads the script for public-art custom HTML component -->
+    <script src="public-art.js"></script>
+</body>
+</html>
