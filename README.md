@@ -70,5 +70,30 @@ List of Topics and Sub-Modules for Week 4 - Flexbox
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-prefixing-flexbox
 
 ------------------------
+week 5:
+Learning Outcomes
+Use APIs to access models for coding and software design;
+Use coding assistants to build user interfaces with HTML and CSS.
+To-dos For This Week
+Complete the following tasks in order from top to bottom:
+
+The following tasks must be completed before our lab next week. Some may take several days, so please start ASAP. This week's assignment will be done in the lab and must be handed in by the end of the session, so you won't have another chance to participate if you're not ready on Friday.
+First, read the AI Privacy, Safety, and Ethics policy. If you have any concerns about the policy, let me know and we can discuss alternatives.
+Complete the tutorial GitHub Education and Codespaces. The part at the end about pushing code to a repository is optional, so you can stop when you get there. If you have any difficulty being approved for an Education account, please let me know ASAP.
+Complete the tutorial Setting up OpenRouter.
+Complete the tutorial Setting up Cline.
+----------------------
+
+Week 6 - Container Queries and Custom HTML Elements 
+Learning Outcomes
+Use size and orientation-based container queries for responsive design
+Use container-relative units for sizing
+Create and use custom HTML elements with attributes and slotted elements
+To-dos For This Week
+Complete the following tasks in order from top to bottom:
+
+Complete this week's readings;
+Complete this week's assignment;
+Review this week's discussion questions.
 
 
