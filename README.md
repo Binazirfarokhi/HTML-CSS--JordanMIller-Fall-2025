@@ -96,4 +96,17 @@ Complete this week's readings;
 Complete this week's assignment;
 Review this week's discussion questions.
 
+Listen
+Required:
+
+Josh Comeau wrote a great explainer about what container queries are and why it took so long to get them in the CSS spec: https://www.joshwcomeau.com/css/container-queries-introduction/
+Recommended:
+
+As usual, MDN has succinct and helpful tutorials about both container queries and custom HTML elements:
+Container queries: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries
+Custom Elements:
+Basics: https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements
+Shadow DOM: https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM
+Templates and Slots: https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots
+Listen
 
