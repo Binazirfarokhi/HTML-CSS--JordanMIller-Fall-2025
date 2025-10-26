@@ -109,4 +109,14 @@ Basics: https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_cu
 Shadow DOM: https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM
 Templates and Slots: https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots
 Listen
+---------------------------
+Week 8: CSS Frameworks 
+Learning Outcomes
+Implement a design using Tailwind CSS and utility classes;
+Use Tailwind CSS directives to create a theme;
+Build user interfaces with components from DaisyUI.
+To-dos For This Week
+Complete the following tasks in order from top to bottom:
 
+Complete this week's assignment 7 (which doubles as a tutorial)
+Review this week's discussion questions.
