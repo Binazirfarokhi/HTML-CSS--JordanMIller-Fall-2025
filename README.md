@@ -32,6 +32,22 @@ If you're interested in joining the course Slack channel, answer the username su
 Watch the video lessons [Note: one more lesson on hsl colors will be coming later in the week]
 Complete this week's assignment;
 Review this week's discussion questions.
+=================
+week2 : 
+Week 2 - Advanced CSS Selectors, Nested CSS, Variables, and Position Property 
+Learning Outcomes
+Use advanced selectors to simplify markup
+Use nested selectors for organization and simplicity
+Use CSS variables for improved organization
+Use position property for advanced layout and UI features
+To-dos For This Week
+Complete the following tasks in order from top to bottom:
+
+If you're interested in joining the course Slack channel, answer the username survey;
+Watch the video lessons [Note: one more lesson on hsl colors will be coming later in the week]
+Complete this week's assignment;
+Review this week's discussion questions.+++++
+=====================
 
 week3 ;
 Learning Outcomes
