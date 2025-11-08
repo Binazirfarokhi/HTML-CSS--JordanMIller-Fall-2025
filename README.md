@@ -137,7 +137,21 @@ Complete the following tasks in order from top to bottom:
 Complete this week's assignment 7 (which doubles as a tutorial)
 Review this week's discussion questions.
 ---------
-w10
+w10Week 10: Transition, Keyframe, and Scroll Animation 
+Learning Outcomes
+Animate transitions between states;
+Set duration and timing functions;
+Animation to and from transitions;
+Create and apply keyframe animations;
+Create keyframes;
+Set animation properties likes iteration count and direction;
+Create scroll-linked animations based on position within scroll container and viewport
+To-dos For This Week
+Complete the following tasks in order from top to bottom:
+
+As needed, review the reocmmended Resources;
+Review this week's discussion questions.
+Continue working on the term project
 MDN has a thorough review of transition animations, including some alternative techniques to the ones we study in class (stop reading before JavaScript Examples): https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions
 MDN's treatment of keyframe animations, including examples: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations
 MDN's deep dive into scroll-linked animations, which goes much deeper than we do in this class (ironically, this only works in Chrome); https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/
